@@ -1,6 +1,4 @@
-﻿using Authorization;
-
-namespace JwtAuthorization.Test.Models {
+﻿namespace JwtAuthorization.Test.Models {
 
     public class User: TokenData {
         [JwtTokenProperty("User")]

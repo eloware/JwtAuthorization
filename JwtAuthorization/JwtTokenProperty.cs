@@ -1,6 +1,6 @@
 using System;
 
-namespace Authorization {
+namespace JwtAuthorization {
     
     [AttributeUsage(AttributeTargets.Property, AllowMultiple = false)]
     public class JwtTokenProperty : Attribute {

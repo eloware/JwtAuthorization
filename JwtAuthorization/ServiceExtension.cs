@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Authorization {
+namespace JwtAuthorization {
     public static class ServiceExtension {
         public static void AddJwtAuthentication(this IServiceCollection services,
             string jwtTokenSecret, TimeSpan? validSpan = null) {

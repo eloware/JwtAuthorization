@@ -9,7 +9,7 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Authorization {
+namespace JwtAuthorization {
     public class LogonService : ILogonService {
         private readonly byte[] _secretBytes;
         private readonly TimeSpan _validSpan;

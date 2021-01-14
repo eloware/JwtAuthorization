@@ -1,6 +1,5 @@
 using System;
 using System.Threading;
-using Authorization;
 using FluentAssertions;
 using JwtAuthorization.Test.Models;
 using NUnit.Framework;
