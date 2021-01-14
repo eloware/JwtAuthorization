@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthorization", "JwtAuthorization\JwtAuthorization.csproj", "{A1AC25C1-6FBF-486C-83C4-3355E8D2C7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthorization.Test", "JwtAuthorization.Test\JwtAuthorization.Test.csproj", "{B93704E7-7502-4776-B0E6-C4BA0F7D2D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AC25C1-6FBF-486C-83C4-3355E8D2C7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AC25C1-6FBF-486C-83C4-3355E8D2C7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AC25C1-6FBF-486C-83C4-3355E8D2C7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AC25C1-6FBF-486C-83C4-3355E8D2C7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93704E7-7502-4776-B0E6-C4BA0F7D2D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93704E7-7502-4776-B0E6-C4BA0F7D2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93704E7-7502-4776-B0E6-C4BA0F7D2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93704E7-7502-4776-B0E6-C4BA0F7D2D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
