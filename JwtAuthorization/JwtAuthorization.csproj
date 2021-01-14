@@ -4,6 +4,13 @@
         <TargetFramework>net5.0</TargetFramework>
         <RootNamespace>Authorization</RootNamespace>
         <Nullable>enable</Nullable>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Authors>Klaus Fischer</Authors>
+        <Copyright>2021</Copyright>
+        <PackageProjectUrl>https://github.com/kfman/JwtAuthorization</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/kfman/JwtAuthorization/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/kfman/JwtAuthorization</RepositoryUrl>
+        <RepositoryType>GIT</RepositoryType>
     </PropertyGroup>
 
     <ItemGroup>
