@@ -2,7 +2,6 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
-        <RootNamespace>Authorization</RootNamespace>
         <Nullable>enable</Nullable>
         <PackageVersion>0.0.1</PackageVersion>
         <Authors>Klaus Fischer</Authors>

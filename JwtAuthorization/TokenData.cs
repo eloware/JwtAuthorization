@@ -1,6 +1,6 @@
 using System;
 
-namespace Authorization {
+namespace JwtAuthorization {
     public class TokenData {
         public bool IsCorrupt { get; set; } = true;
         public DateTime? NotValidBefore { get; set; }
